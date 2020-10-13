@@ -18,6 +18,7 @@
   "homepage": "https://github.com/prarthamjp786/ACH-Stripe-payment#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "path": "^0.12.7",
     "stripe": "^8.111.0"
   }
 }
