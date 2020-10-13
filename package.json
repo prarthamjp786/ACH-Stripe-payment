@@ -1,0 +1,23 @@
+{
+  "name": "ach-stripe-payment",
+  "version": "1.0.0",
+  "description": "banking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prarthamjp786/ACH-Stripe-payment.git"
+  },
+  "author": "prathmesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prarthamjp786/ACH-Stripe-payment/issues"
+  },
+  "homepage": "https://github.com/prarthamjp786/ACH-Stripe-payment#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "stripe": "^8.111.0"
+  }
+}
